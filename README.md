@@ -16,4 +16,4 @@ The training is pretty straightforward and has nothing in special. The models ar
 
 
 ## Results
-The model trained for ___ epochs (until the early stop condition was true), and performed an outstanding 38% accuracy on test data. Which is like 40 better than random, I'm sure that improving the training is the solution here.
+The model trained for 12 epochs (until the early stop condition was true), and performed an outstanding 38% accuracy on test data. Which is like 40 better than random, I'm sure that improving the training is the solution here.
