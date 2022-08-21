@@ -7,7 +7,7 @@ A personal and simple toy implementation of the paper "HorNet: Efficient High-Or
 
 
 ## The Idea
-![](./Screenshot from 2022-08-21 22-50-28.png)
+![](./Screenshot.png)
 [Here](https://www.linkedin.com/posts/diego-bonilla-salvador_hornet-efficient-high-order-spatial-interactions-activity-6967046915418935296-uli6?utm_source=linkedin_share&utm_medium=member_desktop_web) I shared a highlighted version of the paper to ease the reading.
 
 
